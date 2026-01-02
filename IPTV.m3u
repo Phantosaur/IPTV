@@ -1,4 +1,4 @@
-
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="ИНФО",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid1.mp4
@@ -8827,4 +8827,5 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
 
